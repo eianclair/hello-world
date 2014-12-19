@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-My first github
+This is a test. Trying to learn gitHub and what it might be used for. 
